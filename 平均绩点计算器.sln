@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "平均绩点计算器", "平均绩点计算器\平均绩点计算器.vcxproj", "{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|ARM.Build.0 = Debug|ARM
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|x64.ActiveCfg = Debug|x64
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|x64.Build.0 = Debug|x64
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Debug|x86.Build.0 = Debug|Win32
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|ARM.ActiveCfg = Release|ARM
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|ARM.Build.0 = Release|ARM
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|x64.ActiveCfg = Release|x64
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|x64.Build.0 = Release|x64
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|x86.ActiveCfg = Release|x64
+		{DFA6B2E3-59AE-4F71-82E6-263BD7B0F516}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC77FB55-CA29-4B97-B224-7B5811A8612C}
+	EndGlobalSection
+EndGlobal
